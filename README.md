@@ -1,81 +1,101 @@
 <div align="center">
 
-# Uday Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Uday%20Sharma&fontAlignY=40&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-### Software Engineer • Full Stack Developer • DevOps • AI Enthusiast
+# 👋 Hi, I'm Uday Sharma
 
-<p>
-Building scalable web applications with clean architecture, cloud technologies, and modern development practices.
-</p>
+### Full Stack Developer • DevOps • Cloud • AI Enthusiast
 
-<p>
-
-<a href="https://udysharma.me">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/udysharma">LinkedIn</a> •
-<a href="https://github.com/Udysharma">GitHub</a>
-
-</p>
-
----
-
-### 🚀 Live Portfolio
-
-# https://udysharma.me
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Java+%7C+Spring+Boot+%7C+React;Cloud+%7C+DevOps+%7C+Machine+Learning;Always+Learning+Something+New"/>
 
 <br>
 
-## Overview
+<a href="https://udysharma.me">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-udysharma.me-0A66C2?style=for-the-badge"/>
+</a>
 
-This portfolio represents my work as a Computer Science student and developer.
+<a href="https://www.linkedin.com/in/udysharma">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-It showcases projects, certifications, technical skills, and my journey in software engineering.
+<a href="https://github.com/Udysharma">
+<img src="https://img.shields.io/badge/GitHub-Udysharma-181717?style=for-the-badge&logo=github"/>
+</a>
 
-Designed with a strong focus on performance, accessibility, responsiveness, and clean user experience.
-
----
-
-# Tech Stack
-
-| Frontend | Backend | Cloud | Tools |
-|-----------|----------|--------|--------|
-| React | Spring Boot | AWS | Git |
-| Vite | Node.js | Vercel | Linux |
-| Tailwind CSS | Express | CloudFront | VS Code |
-| Framer Motion | PostgreSQL | | Docker |
+</div>
 
 ---
 
-# Highlights
+# 🌍 Live Portfolio
 
-- Responsive design
-- Modern UI/UX
-- Smooth animations
-- Resume download
-- Featured projects
-- Certifications
-- Contact form
-- SEO optimized
-- Fast loading
+## 👉 https://udysharma.me
 
 ---
 
-# Project Structure
+# ⚡ About
 
-```
-src
- ├── assets
- ├── components
- ├── pages
- ├── hooks
+I enjoy building modern web applications that combine clean architecture, responsive interfaces, and scalable backend systems.
+
+Current interests include:
+
+- ☕ Java & Spring Boot
+- ⚛️ React Ecosystem
+- ☁️ AWS Cloud
+- 🐧 Linux
+- ⚙️ DevOps
+- 🤖 Machine Learning
+- 🔐 Cyber Security
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,nextjs,tailwind,js,ts,python,cpp,mysql,postgres,mongodb,docker,git,github,linux,aws,vscode"/>
+
+</p>
+
+---
+
+# 💻 Portfolio Preview
+
+<p align="center">
+
+<img width="900" src="YOUR_SCREENSHOT.png"/>
+
+</p>
+
+---
+
+# ✨ Features
+
+- 🎨 Modern UI
+- ⚡ Fast Performance
+- 📱 Responsive Design
+- 💼 Projects Showcase
+- 📜 Certifications
+- 📄 Resume
+- 📬 Contact Form
+- 🌙 Smooth Animations
+
+---
+
+# 📂 Folder Structure
+
+```text
+src/
+ ├── assets/
+ ├── components/
+ ├── pages/
+ ├── hooks/
  ├── App.jsx
  └── main.jsx
 ```
 
 ---
 
-# Local Development
+# 🚀 Local Setup
 
 ```bash
 git clone https://github.com/Udysharma/portfolio-new.git
@@ -87,7 +107,7 @@ npm install
 npm run dev
 ```
 
-Production Build
+Build
 
 ```bash
 npm run build
@@ -95,60 +115,47 @@ npm run build
 
 ---
 
-# Why this Portfolio?
+# 📊 Development Workflow
 
-The goal wasn't simply to build another portfolio.
+<p align="center">
 
-Instead, I wanted to create a fast, responsive, and professional web application that reflects the same engineering principles used in production software.
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="500">
 
-The project emphasizes
-
-- Component-driven architecture
-- Maintainable code
-- Performance optimization
-- Responsive layouts
-- Reusable UI
-- Clean animations
+</p>
 
 ---
 
-# Featured Sections
+# 🌱 Currently Learning
 
-- Home
-- About
-- Skills
-- Experience
-- Certifications
-- Projects
-- Resume
-- Contact
+```text
+Spring Boot
+AWS
+Docker
+CI/CD
+Microservices
+Machine Learning
+```
 
 ---
 
-# Connect
+# 📬 Connect
 
-🌐 Website
+<p align="center">
 
-https://udysharma.me
+<a href="https://udysharma.me">🌐 Website</a> •
+<a href="https://www.linkedin.com/in/udysharma">LinkedIn</a> •
+<a href="https://github.com/Udysharma">GitHub</a>
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/udysharma
-
-💻 GitHub
-
-https://github.com/Udysharma
-
-📧
-
-udaysharma6x@gmail.com
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting ⭐
+### ⭐ Thanks for visiting!
 
-If you found this project interesting, consider giving it a star.
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
