@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Uday%20Sharma&fontAlignY=40&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20&text=Uday%20Sharma&fontSize=65&fontColor=fff&animation=twinkling"/>
 
-# 👋 Hi, I'm Uday Sharma
-
-### Full Stack Developer • DevOps • Cloud • AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Java+%7C+Spring+Boot+%7C+React;Cloud+%7C+DevOps+%7C+Machine+Learning;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Spring+Boot+%7C+React+%7C+AWS;DevOps+%7C+Machine+Learning;Building+the+Future+🚀"/>
 
 <br>
 
 <a href="https://udaysharma.me">
-<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-udysharma.me-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/udysharma">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-udaysharma.me-0ea5e9?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Udysharma">
 <img src="https://img.shields.io/badge/GitHub-Udysharma-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/udysharma">
+<img src="https://img.shields.io/badge/LinkedIn-Uday%20Sharma-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -28,74 +24,61 @@
 
 # 🌍 Live Portfolio
 
-## 👉 https://udysharma.me
+## 🚀 https://udaysharma.me
 
 ---
 
-# ⚡ About
+<div align="center">
 
-I enjoy building modern web applications that combine clean architecture, responsive interfaces, and scalable backend systems.
+### ⚡ Building modern web experiences
 
-Current interests include:
+<img width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
-- ☕ Java & Spring Boot
-- ⚛️ React Ecosystem
-- ☁️ AWS Cloud
-- 🐧 Linux
-- ⚙️ DevOps
+</div>
+
+---
+
+# 💻 About
+
+I'm a Computer Science undergraduate passionate about
+
+- 🚀 Full Stack Development
+- ☕ Spring Boot
+- ⚛ React
+- ☁ AWS
+- ⚙ DevOps
 - 🤖 Machine Learning
 - 🔐 Cyber Security
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,nextjs,tailwind,js,ts,python,cpp,mysql,postgres,mongodb,docker,git,github,linux,aws,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,tailwind,js,ts,python,cpp,mysql,postgres,mongodb,docker,git,github,linux,aws,vscode"/>
 
 </p>
 
 ---
 
-# 💻 Portfolio Preview
+# 🖥 Portfolio Preview
 
 <p align="center">
 
-<img width="900" src="YOUR_SCREENSHOT.png"/>
+<img src="./preview.gif" width="100%"/>
 
 </p>
 
 ---
 
-# ✨ Features
+# ⚙ Development
 
-- 🎨 Modern UI
-- ⚡ Fast Performance
-- 📱 Responsive Design
-- 💼 Projects Showcase
-- 📜 Certifications
-- 📄 Resume
-- 📬 Contact Form
-- 🌙 Smooth Animations
+<div align="center">
 
----
+<img width="420" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
-# 📂 Folder Structure
-
-```text
-src/
- ├── assets/
- ├── components/
- ├── pages/
- ├── hooks/
- ├── App.jsx
- └── main.jsx
-```
-
----
-
-# 🚀 Local Setup
+</div>
 
 ```bash
 git clone https://github.com/Udysharma/portfolio-new.git
@@ -107,55 +90,38 @@ npm install
 npm run dev
 ```
 
-Build
-
-```bash
-npm run build
-```
-
 ---
 
-# 📊 Development Workflow
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="500">
-
-</p>
-
----
-
-# 🌱 Currently Learning
+# 📈 Current Focus
 
 ```text
-Spring Boot
-AWS
-Docker
-CI/CD
-Microservices
-Machine Learning
+███████████████████████░░░  Spring Boot
+█████████████████████░░░░░  AWS
+████████████████████░░░░░░  Docker
+██████████████████░░░░░░░░  Kubernetes
+███████████████████░░░░░░░  Machine Learning
 ```
 
 ---
 
 # 📬 Connect
 
-<p align="center">
+🌐 https://udaysharma.me
 
-<a href="https://udysharma.me">🌐 Website</a> •
-<a href="https://www.linkedin.com/in/udysharma">LinkedIn</a> •
-<a href="https://github.com/Udysharma">GitHub</a>
+💼 https://www.linkedin.com/in/udysharma
 
-</p>
+💻 https://github.com/Udysharma
+
+📧 udaysharma6x@gmail.com
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+<img width="450" src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif"/>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+### ⭐ Thanks for visiting!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient"/>
