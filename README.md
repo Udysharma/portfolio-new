@@ -1,78 +1,93 @@
-# 🚀 Uday Sharma Portfolio
+<div align="center">
 
-<p align="center">
-  <h3 align="center">Full Stack Developer • DevOps • Cloud • Machine Learning</h3>
+# Uday Sharma
 
-  <p align="center">
-    A modern, responsive portfolio showcasing my projects, technical skills, certifications, and experience.
-  </p>
+### Software Engineer • Full Stack Developer • DevOps • AI Enthusiast
+
+<p>
+Building scalable web applications with clean architecture, cloud technologies, and modern development practices.
+</p>
+
+<p>
+
+<a href="https://udysharma.me">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/udysharma">LinkedIn</a> •
+<a href="https://github.com/Udysharma">GitHub</a>
+
 </p>
 
 ---
 
-## 🌐 Live Website
+### 🚀 Live Portfolio
 
-👉 **https://udysharma.me**
+# https://udysharma.me
 
-Backup Deployment
+</div>
 
-https://portfolio-v2-flax-one.vercel.app
+<br>
+
+## Overview
+
+This portfolio represents my work as a Computer Science student and developer.
+
+It showcases projects, certifications, technical skills, and my journey in software engineering.
+
+Designed with a strong focus on performance, accessibility, responsiveness, and clean user experience.
 
 ---
 
-## ✨ Features
+# Tech Stack
 
-- Modern Responsive UI
-- Smooth Animations
-- Project Showcase
-- Technical Skills
+| Frontend | Backend | Cloud | Tools |
+|-----------|----------|--------|--------|
+| React | Spring Boot | AWS | Git |
+| Vite | Node.js | Vercel | Linux |
+| Tailwind CSS | Express | CloudFront | VS Code |
+| Framer Motion | PostgreSQL | | Docker |
+
+---
+
+# Highlights
+
+- Responsive design
+- Modern UI/UX
+- Smooth animations
+- Resume download
+- Featured projects
 - Certifications
-- Resume Download
-- Contact Form
-- Mobile Friendly
-- Fast Loading
+- Contact form
+- SEO optimized
+- Fast loading
 
 ---
 
-## 🛠 Tech Stack
+# Project Structure
 
-- React
-- Vite
-- Tailwind CSS
-- Framer Motion
-- JavaScript
-- HTML5
-- CSS3
+```
+src
+ ├── assets
+ ├── components
+ ├── pages
+ ├── hooks
+ ├── App.jsx
+ └── main.jsx
+```
 
 ---
 
-## 🚀 Run Locally
-
-Clone the project
+# Local Development
 
 ```bash
 git clone https://github.com/Udysharma/portfolio-new.git
-```
 
-Go to the project directory
-
-```bash
 cd portfolio-new
-```
 
-Install dependencies
-
-```bash
 npm install
-```
 
-Start the development server
-
-```bash
 npm run dev
 ```
 
-Create production build
+Production Build
 
 ```bash
 npm run build
@@ -80,47 +95,60 @@ npm run build
 
 ---
 
-## 📂 Project Structure
+# Why this Portfolio?
 
-```
-src/
- ├── components/
- ├── assets/
- ├── pages/
- ├── App.jsx
- └── main.jsx
-```
+The goal wasn't simply to build another portfolio.
 
----
+Instead, I wanted to create a fast, responsive, and professional web application that reflects the same engineering principles used in production software.
 
-## 👨‍💻 About Me
+The project emphasizes
 
-I'm **Uday Sharma**, a Computer Science undergraduate passionate about building scalable web applications and solving real-world problems.
-
-### Interests
-
-- Full Stack Development
-- Java & Spring Boot
-- MERN Stack
-- DevOps
-- AWS Cloud
-- Machine Learning
-- Cyber Security
+- Component-driven architecture
+- Maintainable code
+- Performance optimization
+- Responsive layouts
+- Reusable UI
+- Clean animations
 
 ---
 
-## 📬 Connect With Me
+# Featured Sections
 
-🌍 Website: https://udysharma.me
-
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-
-💻 GitHub: https://github.com/Udysharma
-
-📧 Email: udaysharma6x@gmail.com
+- Home
+- About
+- Skills
+- Experience
+- Certifications
+- Projects
+- Resume
+- Contact
 
 ---
 
-## 📄 License
+# Connect
 
-This project is licensed under the MIT License.
+🌐 Website
+
+https://udysharma.me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/udysharma
+
+💻 GitHub
+
+https://github.com/Udysharma
+
+📧
+
+udaysharma6x@gmail.com
+
+---
+
+<div align="center">
+
+### Thanks for visiting ⭐
+
+If you found this project interesting, consider giving it a star.
+
+</div>
