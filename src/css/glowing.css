@@ -1,0 +1,47 @@
+/* From Uiverse.io by jdm-encompass */ 
+.spinner {
+    background-image: linear-gradient(rgb(0, 144, 255) 35%, rgb(0, 0, 255));
+    width: 20px;
+    height: 20px;
+    animation: spinning82341 1.7s linear infinite;
+    text-align: center;
+    border-radius: 50px;
+    filter: blur(1px);
+    box-shadow: 0px -5px 20px 0px rgb(0, 144, 255), 0px 5px 20px 0px rgb(0, 0, 255);
+    position: relative;
+  }
+  
+  .spinner1 {
+    background-color: rgb(0, 0, 255);
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    filter: blur(10px);
+    animation: flickeringGlow 2s linear infinite;
+  }
+  
+  .circle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50%;
+  }
+  
+  @keyframes spinning82341 {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes flickeringGlow {
+    0% {
+      box-shadow: 0px -10px 40px 0px rgb(0, 144, 255), 0px 10px 40px 0px rgb(0, 0, 255), 0px 0px 20px 0px white;
+    }
+    
+    /* ...rest of the keyframes remain the same... */
+  }
+  

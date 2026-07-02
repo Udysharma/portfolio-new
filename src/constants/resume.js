@@ -1,0 +1,1 @@
+export const resumeUrl = new URL("../../Uday resume.pdf", import.meta.url).href;
