@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://udysharma.me">
+<a href="https://udaysharma.me">
 <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-udysharma.me-0A66C2?style=for-the-badge"/>
 </a>
 
